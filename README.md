@@ -1,6 +1,6 @@
-# Code Step-by-Step
+# Dev Guides
 
-Bem-vindo(a) ao **Code Step-by-Step**! Este repositório é um porto seguro para programadores iniciantes (e para aqueles momentos em que a nossa memória falha). Aqui você encontra guias práticos, direto ao ponto e estruturados em etapas para configurar projetos, entender arquiteturas e dominar ferramentas de desenvolvimento.
+Bem-vindo(a) ao **Dev Guides**! Este repositório é um porto seguro para programadores iniciantes (e para aqueles momentos em que a nossa memória falha). Aqui você encontra guias práticos, direto ao ponto e estruturados em etapas para configurar projetos, entender arquiteturas e dominar ferramentas de desenvolvimento.
 
 A ideia é simplificar o "como começar" para que você foque no que realmente importa: **construir**.
 
